@@ -1,2 +1,2 @@
 # DeepLearning.ai
-My solutions for the programming assignments and some experiments.
+Programming assignment solutions and some personal experiments.
